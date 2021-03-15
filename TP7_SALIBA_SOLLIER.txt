@@ -1,0 +1,11 @@
+NOM: SOLLIER
+PRENOM: VALENTINE
+
+et 
+
+NOM: SALIBA
+PRENOM: RAYAN
+
+VII. Explication:
+Nous voyons pas apparaitre notre fichier dans la branche master 
+car elle est dans la branche mon_fichier
